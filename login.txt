@@ -1,4 +1,7 @@
 Đây là tính năng login.
 DevB mới bổ sung tính năng login lúc 19:05
 Dev B bổ sung file login
+
+Dev B làm tính năng đăng ký bổ sung nội dung
 Dev A chỉnh sửa update tính năng login
+
